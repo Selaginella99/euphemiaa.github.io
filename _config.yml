@@ -1,33 +1,34 @@
 # Site
 title:              一隅
-bio:                '成长'
-description:        "个人写作空间"
+bio:                Euphemia的个人写作空间
+description:
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://euphemiaa.github.io
+#url:                https://euphemiaa.github.io
+url:                http://127.0.0.1:4000/
 
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-# kramdown:           GFM
 highlighter:        rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
 
 # Comments
-# disqus_shortname:   taylantatli
+duoshuo_shortname: euphemiaa
 
 # Social
 # if you don't have any of social below, comment the line.

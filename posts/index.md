@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: 日志
+excerpt: "日志列表"
 comments: false
 ---

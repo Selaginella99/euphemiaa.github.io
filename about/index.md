@@ -1,37 +1,42 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: 关于博主
+tags: [关于]
 date: 2016-03-21
 comments: false
 ---
+![头像](/assets/img/favicons/apple-icon-precomposed.png)
+
+
+- **名号**
+
+   Euphemiaa
+
+
+- **坐标**
+
+   中国·福建·福州
+
+
+- **个人简介**
+   * 晨型人
+   * 热爱阅读和长跑。
+   * 对文字符号充满好奇的程序媛，
+
+
+- **三个在无外力情况下做过的重要决定**
+
+    - 坚持跑步
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+        > Pain is inevitable,suffering is optional.——村上春树
+    
+    - 持续学习
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+        >  古之欲明明德于天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知。——《大学》
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+    - 做一个幸福的人
+    
+        > 在生命的终点，审判我的将是爱。 ——Mother Teresa
+        
+        
+        
